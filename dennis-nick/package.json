@@ -1,0 +1,20 @@
+{
+  "name": "dennis-nick",
+  "version": "1.0.0",
+  "description": "our node js lab",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "dennis-nick",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
