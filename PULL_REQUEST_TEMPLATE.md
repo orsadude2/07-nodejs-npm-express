@@ -1,5 +1,5 @@
 #### Single-line Summary
-**Today, _ and _ paired together. It took about _**
+**Today, Dennis and Nick paired together. It took about 5 hours
 
 #### Reflect and summarize on your process for each `TODO` item :  
   1. First, we started on ...
