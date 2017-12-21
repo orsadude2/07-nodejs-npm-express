@@ -29,7 +29,7 @@ app.post('/articles', bodyParser, function(request, response) {
   response.send(request.body);
 })
 
-app.use((request, response) => response.status(404).sendFile(‘404.html’, {root: './public'}))
+app.use((request, response) => response.status(404).sendFile('404.html', {root: './public'}))
 
 app.listen(PORT, () => {
      console.log(`Listening on port ${PORT}`)
